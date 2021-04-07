@@ -1,0 +1,3 @@
+com.seleniumexpress.selenium_express.config.LoveCalculatorAppConfig=org.springframework.stereotype.Component
+com.seleniumexpress.selenium_express.controller.LCAppController=org.springframework.stereotype.Component
+com.seleniumexpress.selenium_express.controller.RegistrationController=org.springframework.stereotype.Component
